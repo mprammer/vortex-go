@@ -1,0 +1,10 @@
+[package]
+name = "iceberg-vortex-regressions"
+version = "0.1.0"
+edition = "2024"
+
+# Staged beside the pinned current Rust checkout by generate.sh.
+[dependencies]
+vortex = { path = "../vortex/vortex" }
+pco = "=1.0.3"
+serde_json = "1"

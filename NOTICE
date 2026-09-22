@@ -1,0 +1,13 @@
+vortex-go
+Copyright 2026 the vortex-go contributors
+
+Vortex schemas and encoding algorithms originate in vortex-data/vortex,
+Copyright the Vortex contributors, Apache-2.0.
+
+The wrapped Pco decoding algorithms derive from pcodec/pcodec (pco 1.0.3),
+Copyright the pcodec contributors, Apache-2.0.
+
+Test source-value formulas and Rust fixture generators include Apache Iceberg
+contributions, Copyright 2023-2026 The Apache Software Foundation.
+This product includes software developed at The Apache Software Foundation
+(http://www.apache.org/).

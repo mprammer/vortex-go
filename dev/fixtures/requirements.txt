@@ -1,0 +1,3 @@
+# SPDX-License-Identifier: Apache-2.0
+# Independent Parquet source-oracle generation.
+pyarrow==21.0.0
